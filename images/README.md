@@ -1,8 +1,14 @@
-customer1.jpg
-customer2.jpg
-customer3.jpg
-customer4.jpg
-customer5.jpg
-customer6.jpg
-customer7.jpg
-customer8.jpg
+<img width="3024" height="4032" alt="IMG_2911" src="https://github.com/user-attachments/assets/260bd20d-06d6-455b-81fe-e4790e45d18e" />
+<img width="3024" height="4032" alt="IMG_2903" src="https://github.com/user-attachments/assets/54ce3b36-91f3-451a-a0a6-ffd9540b7c39" />
+<img width="3024" height="4032" alt="IMG_2882" src="https://github.com/user-attachments/assets/0c1faba0-18dd-4a57-bbcc-c13150a46a7f" />
+<img width="3024" height="4032" alt="IMG_2602" src="https://github.com/user-attachments/assets/927bee84-e205-4550-b312-17f75e8df061" />
+<img width="3024" height="4032" alt="IMG_2498" src="https://github.com/user-attachments/assets/438b34cf-43b1-4487-9491-2dcdf2aa8bac" />
+<img width="3024" height="4032" alt="IMG_2231" src="https://github.com/user-attachments/assets/4cc1df08-4a6b-4150-8e9f-68361706bbbe" />
+<img width="3024" height="4032" alt="IMG_2150" src="https://github.com/user-attachments/assets/92325857-89f7-4d61-b1df-343a722a8184" />
+<img width="3024" height="4032" alt="IMG_2122" src="https://github.com/user-attachments/assets/e1cb0975-a05f-4cbe-92c7-a0023eaac960" />
+<img width="3024" height="4032" alt="IMG_2119" src="https://github.com/user-attachments/assets/679a7e7c-6ad6-4be7-a0da-2829561e46a7" />
+<img width="3024" height="4032" alt="IMG_2089" src="https://github.com/user-attachments/assets/e82bc9a7-0888-4e7e-b126-777359dd1ce4" />
+<img width="3024" height="4032" alt="IMG_2080" src="https://github.com/user-attachments/assets/070f900d-6f1f-4272-b761-6caa0d5039ce" />
+<img width="3024" height="4032" alt="IMG_2046" src="https://github.com/user-attachments/assets/e599ce9b-362e-4882-88ba-9e1aee437449" />
+<img width="1536" height="2048" alt="c0064b9f-6b17-4ab9-802a-6a1fd648a6c5" src="https://github.com/user-attachments/assets/627805a3-65bd-43aa-a01e-25c5fd4c4241" />
+<img width="1536" height="2048" alt="79bdf547-0fd8-4aed-877d-1859211820fe" src="https://github.com/user-attachments/assets/c14ae310-e687-4dcb-bf6a-8076f93663ab" />
