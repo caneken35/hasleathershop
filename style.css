@@ -188,3 +188,33 @@ transition:.4s;
 transform:scale(1.04);
 
 }
+/* Reviews */
+
+.reviews{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:30px;
+    margin-top:40px;
+}
+
+.review{
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.review:hover{
+    transform:translateY(-8px);
+}
+
+.review p{
+    margin:20px 0;
+    color:#555;
+    line-height:1.8;
+}
+
+.review h4{
+    color:#8b5a2b;
+}
