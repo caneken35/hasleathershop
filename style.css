@@ -304,3 +304,56 @@ transform:scale(1.1);
     font-size:20px;
     margin:15px 0;
 }
+/* TRUST SECTION */
+
+.trust{
+    background:#faf7f3;
+    padding:90px 20px;
+    text-align:center;
+}
+
+.trust h2{
+    font-size:38px;
+    margin-bottom:20px;
+}
+
+.trust-text{
+    max-width:700px;
+    margin:auto;
+    font-size:19px;
+    color:#555;
+    margin-bottom:40px;
+}
+
+.trust-buttons{
+    display:flex;
+    justify-content:center;
+    gap:25px;
+    flex-wrap:wrap;
+}
+
+.trust-btn{
+    padding:18px 35px;
+    border-radius:50px;
+    text-decoration:none;
+    color:#fff;
+    font-size:18px;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.google{
+    background:#4285F4;
+}
+
+.google:hover{
+    background:#2b6ad6;
+}
+
+.trip{
+    background:#00AA6C;
+}
+
+.trip:hover{
+    background:#008c59;
+}
