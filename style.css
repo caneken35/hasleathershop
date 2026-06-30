@@ -289,3 +289,18 @@ z-index:9999;
 transform:scale(1.1);
 
 }
+#reviews,
+#tripadvisor{
+    text-align:center;
+    background:#fff;
+    margin:40px auto;
+    padding:60px 30px;
+    border-radius:15px;
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+}
+
+#reviews p,
+#tripadvisor p{
+    font-size:20px;
+    margin:15px 0;
+}
